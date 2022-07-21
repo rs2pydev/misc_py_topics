@@ -1,1 +1,1 @@
-A collection of Pythonic topics (as `.py` scripts or `.ipynb` notebooks) that I have found interesting. 
+### Miscellaneous topics on core Python programming, data science, machine learning and deep learning, as `.py` scripts or `.ipynb` notebooks. 
